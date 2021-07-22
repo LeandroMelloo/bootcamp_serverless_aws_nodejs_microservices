@@ -1,0 +1,8 @@
+1° Passo: criar a function serverless
+    - comando: serverless create --name serverless-microservicos --template-url htpps://github.com/codingly-io/sls-bas
+
+2° Passo: entrar dentro da pasta criada anteriormente
+    - comando: cd .\serverless-microservicos\
+
+3° Passo: instalar os pacotes necessarios
+    - comando: npm install
